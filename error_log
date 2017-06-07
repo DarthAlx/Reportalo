@@ -1,0 +1,5 @@
+[03-Feb-2017 18:26:41 UTC] PHP Parse error:  syntax error, unexpected '$files' (T_VARIABLE) in /home/hadoukendev/public_html/test/Reportalo/application/controllers/Email.php on line 64
+[03-Feb-2017 18:31:06 UTC] PHP Parse error:  syntax error, unexpected '$files' (T_VARIABLE) in /home/hadoukendev/public_html/test/Reportalo/application/controllers/Email.php on line 64
+[03-Feb-2017 18:31:29 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/hadoukendev/public_html/test/Reportalo/application/controllers/Email.php on line 64
+[15-Feb-2017 16:31:57 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/hadoukendev/public_html/test/Reportalo/application/models/Queries_model.php on line 43
+[15-Feb-2017 19:11:22 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/hadoukendev/public_html/test/Reportalo/application/models/Queries_model.php on line 43
